@@ -1,5 +1,5 @@
 blueprint:
-  name: Inovelli Red Series LZW31-SN Dimmer (ZWave-JS)
+  name: Inovelli Red Series LZW31-SN Dimmer Rivet
   description: Create automations for the Inovelli Red Series LZW31-SN Dimmer using the ZWave-JS integration.
   domain: automation
   input:
